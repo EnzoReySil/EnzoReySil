@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @GravesRoot
+- 👀 I’m interested in SQL, Kotlin, SQL and Web design
+- 🌱 I’m currently learning COBOL and Kotlin
+- 💞️ I’m looking to collaborate on prejects dedicated to creative outcomes. 
+
+<!---
+GravesRoot/GravesRoot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
