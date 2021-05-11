@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GravesRoot
-- 👀 I’m interested in SQL, Kotlin, SQL and Web design
+- 👀 I’m interested in SQL, Kotlin, Python and Web design
 - 🌱 I’m currently learning COBOL and Kotlin
 - 💞️ I’m looking to collaborate on prejects dedicated to creative outcomes. 
 
