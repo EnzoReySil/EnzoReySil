@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GravesRoot
 - 👀 I’m interested in SQL, Kotlin, Python and Web design
-- 🌱 I’m currently learning COBOL and Kotlin
+- 🌱 I’m currently learning Atom, advanced Python and SQL
 - 💞️ I’m looking to collaborate on prejects dedicated to creative outcomes. 
 
 <!---
