@@ -35,4 +35,4 @@ My first and worst app ever... for real
 ## You can also take a look at my notes if you want.
 
 
-[[Notas en programación]]
+- Still in construction!
