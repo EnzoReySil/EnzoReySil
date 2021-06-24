@@ -1,9 +1,38 @@
-- 👋 Hi, I’m @GravesRoot
-- 👀 I’m interested in SQL, Kotlin, Python and Web design
-- 🌱 I’m currently learning Atom, advanced Python and SQL
-- 💞️ I’m looking to collaborate on prejects dedicated to creative outcomes. 
+# Hello, there! I am Juan Lorenzo.
 
-<!---
-GravesRoot/GravesRoot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am interested in creating open source projects.
+
+## I am interested in...😋
+
+Kotlin 👽
+
+Java ☕
+
+JavaScript 🟨
+
+Web Development 🌐
+
+Software Engineering 🛠⚙
+
+Game Development 🎮👾
+
+## Right now I'm using and learning...🤔
+
+Unity 🕹
+
+JetBrains Suite 🧠
+
+## My projects Right now are... 💻🤓
+
+Java back-end enrollments
+
+Creating a portfolio and not dying at trying
+
+My first and worst game ever... really
+
+My first and worst app ever... for real
+
+## You can also take a look at my notes if you want.
+
+
+[[Notas en programación]]
