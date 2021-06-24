@@ -34,5 +34,4 @@ My first and worst app ever... for real
 
 ## You can also take a look at my notes if you want.
 
-
-- Still in construction!
+  - Still in construction!
